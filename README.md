@@ -7,11 +7,17 @@ This project explores the COVID-19 dataset using SQL to extract meaningful insig
 
 ### Features of the Project
 ✔ Data Cleaning – Converts string-based numerical fields into proper data types for accurate calculations.
+
 ✔ Total Cases vs Total Deaths Analysis – Identifies the severity of the pandemic by calculating death percentages.
+
 ✔ Country-Specific Insights – Focused study on India, including death rates and case trends.
+
 ✔ Population Impact Analysis – Determines the highest infection and death rates across different regions.
+
 ✔ Time-Based Trends – Identifies the first occurrence of deaths and tracks daily new cases.
+
 ✔ Vaccination Analysis – Examines vaccination progress in different locations using SQL joins.
+
 ✔ Use of SQL Views and CTEs – Optimized query execution for efficient data retrieval.
 
 ### Advantages / How It Helps
