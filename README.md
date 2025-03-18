@@ -31,7 +31,11 @@ This project explores the COVID-19 dataset using SQL to extract meaningful insig
 
 ### Usage Instructions
 Import the dataset (COVIDDEATHS and COVIDVACC) into your SQL environment.
+
 Execute the provided SQL queries sequentially to analyze the data.
+
 Modify queries as per requirements to extract custom insights.
+
 Dataset Source
+
 The dataset used for this project is publicly available and contains COVID-19-related data on cases, deaths, and vaccinations.
