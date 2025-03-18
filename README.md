@@ -22,8 +22,11 @@ This project explores the COVID-19 dataset using SQL to extract meaningful insig
 
 ### Advantages / How It Helps
 ✅ Helps in understanding COVID-19 trends using SQL-based analysis.
+
 ✅ Provides country-specific and global insights into the pandemic.
+
 ✅ Aids policymakers and health organizations in making data-driven decisions.
+
 ✅ Enhances SQL proficiency with real-world data analysis.
 
 ### Usage Instructions
